@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about Cyber Security and Ethical Ha
 - 🔐 **Interests:** Cyber Security and Ethical Hacking
 - 🚀 **Currently Learning:** Flutter
 - 🤝 **Looking to Collaborate On:** Cyber Security projects and Flutter applications
-- 📫 **How to Reach Me:** [sreejithc774@gmail.com](mailto:sreejithc774@gmail.com)
+- 📫 **How to Reach Me:** [csreejithofficial@gmail.com](mailto:csreejithofficial@gmail.com)
 - 😄 **Pronouns:** He/Him
 
 ## Skills
