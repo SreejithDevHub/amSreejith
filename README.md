@@ -51,16 +51,6 @@
 
 ###
 
-<br clear="both">
 
-<div align="center">
-  <img height="150" src="https://i.gifer.com/4I9G.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/amSreejith/amSreejith/output/snake.svg" alt="Snake animation" />
 
 ###
