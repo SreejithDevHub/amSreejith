@@ -1,5 +1,5 @@
 <div align="center"> <img height="150" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" /> </div>
-<div align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=0xsreejith.0xsreejith&" /> </div>
+![Profile Views](https://komarev.com/ghpvc/?username=0xsreejith&color=blue)
 <h1 align="center">Hey there, I'm Sreejith 👋</h1>
 <h3 align="left">👨‍💻 About Me</h3>
 <p align="left"> I’m a self-taught Flutter Developer and bug bounty hunter from Kerala, India. 🌍<br><br> - 🔭 I'm passionate about building mobile applications using Flutter and exploring the world of cybersecurity.<br><br> - 📚 I’m constantly improving my skills in Flutter development and deepening my understanding of ethical hacking.<br><br> - ⚡ In my free time, I enjoy solving Capture the Flag (CTF) challenges, experimenting with new cybersecurity tools, and working on interesting projects.<br><br> Let's collaborate and make something great! 🚀 </p>
